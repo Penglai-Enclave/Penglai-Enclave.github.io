@@ -4,6 +4,7 @@ tagline:      Open-sourced secure and scalable TEE system for RISC-V.
 baseurl:      ""
 paginate:     1
 locale:       "en"
+future: true
 
 # About/contact
 author:

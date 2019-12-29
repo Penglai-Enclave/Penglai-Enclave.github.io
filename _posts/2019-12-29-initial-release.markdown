@@ -1,19 +1,24 @@
 ---
-layout: default
+layout: page 
 title:  "Penglai-Enclave Open-Source Plan"
 date:   2019-12-29 17:50:00
 categories: main
 ---
 
+# Penglai-Enclave Open-Source Plan
+
 Hey guys,
 
-It's happy to announce that Penglai Enclave will be open-sourced soon.
+&nbsp; &nbsp; It's happy to announce that Penglai Enclave will be open-sourced soon.
 
-Penglai Enclave is a scalable TEE system that can support many secure applications simultaneously.
+&nbsp; &nbsp; Penglai Enclave is a scalable TEE system that can support many secure applications simultaneously.
 
-Please follow our [homepage](penglai-enclave.systems) and our [github](https://github.com/Penglai-Enclave) for the latest information.
+&nbsp; &nbsp; Please follow our [homepage](https://penglai-enclave.systems) and our [github](https://github.com/Penglai-Enclave) for the latest information.
 
-Thanks.
+&nbsp; &nbsp; Thanks.
 
-Dong and the rest of IPADS@SJTU.
+<br/>
+<br/>
+
+*--- Dong and the rest of IPADS@SJTU.*
 
