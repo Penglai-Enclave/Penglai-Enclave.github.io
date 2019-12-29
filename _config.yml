@@ -1,0 +1,18 @@
+# Setup
+title:        Penglai/蓬莱 Enclave
+tagline:      Open-sourced secure and scale TEE system for RISC-V.
+baseurl:      ""
+paginate:     1
+locale:       "en"
+
+# About/contact
+author:
+  name:       IPADS@Shanghai Jiao Tong University
+  url:        https://ipads.se.sjtu.edu.cn/
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
