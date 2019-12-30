@@ -7,22 +7,18 @@ categories: main
 
 # Team Members 
 
-## Yubin Xia (夏虞斌) 
-
-<img align="right" width="200" height="256" src="images/xyb-small.jpg"/>
 
 
-Yubin Xia is an associate professor in Shanghai Jiao Tong University. His research interests include operating systems, system virtualization, computer architecture. Currently, He is focusing on building new system software that are suitable for isolation in new execution environments, like TEE, VM, enclave, etc.
+
+## Xu Lu (路旭)
 
 
-  * Associate Professor 
-  * Institute of Parallel And Distributed Systems 
-  * School of Software 
-  * Shanghai Jiao Tong University 
-  * 3401, Software Building, 800 Dongchuan Rd., Shanghai, China 
-  * Zip/Postal Code: 200240 
-  * Email: xiayubin at sjtu dot edu dot cn
-  * [Home page](http://ipads.se.sjtu.edu.cn/zh/pub/members/yubin_xia/)
+## Bicheng Yang (杨壁丞)
+
+
+## Erhu Feng (冯二虎)
+
+
 
 ## Dong Du (杜东) 
 
@@ -43,11 +39,20 @@ I have built several systems including OS, compiler, and RISC-V processor (XPC o
   * [Home page](http://dongd.info)
 
 
-## Xu Lu (路旭)
+
+## Yubin Xia (夏虞斌) 
+
+<img align="right" width="200" height="256" src="images/xyb-small.jpg"/>
 
 
-## Bicheng Yang (杨壁丞)
+Yubin Xia is an associate professor in Shanghai Jiao Tong University. His research interests include operating systems, system virtualization, computer architecture. Currently, He is focusing on building new system software that are suitable for isolation in new execution environments, like TEE, VM, enclave, etc.
 
 
-## Erhu Feng (冯二虎)
-
+  * Associate Professor 
+  * Institute of Parallel And Distributed Systems 
+  * School of Software 
+  * Shanghai Jiao Tong University 
+  * 3401, Software Building, 800 Dongchuan Rd., Shanghai, China 
+  * Zip/Postal Code: 200240 
+  * Email: xiayubin at sjtu dot edu dot cn
+  * [Home page](http://ipads.se.sjtu.edu.cn/zh/pub/members/yubin_xia/)

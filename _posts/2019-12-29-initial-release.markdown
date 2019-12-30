@@ -1,5 +1,5 @@
 ---
-layout: page 
+layout: clean 
 title:  "Penglai-Enclave Open-Source Plan"
 date:   2019-12-29 17:50:00
 categories: main
