@@ -17,7 +17,9 @@ categories: main
 
 <img align="right" width="200" height="256" src="images/bichengyang.jpg"/>
 
-Bicheng Yang is an postgraduate student in Shanghai Jiao Tong University. His research interests include operating systems, virtualization and TEE. I have participate in several systems including cloud-computing, RISC-V TEE.
+Bicheng Yang is a postgraduate student in Shanghai Jiao Tong University. 
+His research interests include operating systems, virtualization and TEE. 
+He has participated in several systems including cloud-computing, RISC-V TEE.
 
 * First-year postgraduate student
 * Institute of Parallel And Distributed Systems
