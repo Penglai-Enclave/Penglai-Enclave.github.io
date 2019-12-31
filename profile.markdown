@@ -66,7 +66,7 @@ Erhu Fengis a undergraduate student in Shanghai Jiao Tong University. His resear
 
 
 Dong Du is a PhD student @ Shanghai Jiao Tong University. His research interests include operating systems, virtualization and HW/SW co-design. 
-I have built several systems including OS, compiler, and RISC-V processor (XPC on RISC-V).
+He has built several systems including OS, compiler, and RISC-V processor (XPC on RISC-V).
 
 
   * Third-year Ph.D student
