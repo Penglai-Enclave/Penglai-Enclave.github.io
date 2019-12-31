@@ -13,7 +13,19 @@ categories: main
 ## Xu Lu (路旭)
 
 
-## Bicheng Yang (杨壁丞)
+## Bicheng Yang (杨璧丞)
+
+<img align="right" width="200" height="256" src="images/bichengyang.jpg"/>
+
+Bicheng Yang is an postgraduate student in Shanghai Jiao Tong University. His research interests include operating systems, virtualization and TEE. I have participate in several systems including cloud-computing, RISC-V TEE.
+
+* First-year postgraduate student
+* Institute of Parallel And Distributed Systems
+* School of Software
+* Shanghai Jiao Tong University
+* 3401, Software Building, 800 Dongchuan Rd., Shanghai, China
+* Zip/Postal Code: 200240
+* Email: Bichengyang at sjtu dot edu dot cn
 
 
 ## Erhu Feng (冯二虎)
@@ -33,7 +45,7 @@ I have built several systems including OS, compiler, and RISC-V processor (XPC o
   * Institute of Parallel And Distributed Systems 
   * School of Software 
   * Shanghai Jiao Tong University 
-  * 3401, Software Building, 800 Dongchuan Rd., Shanghai, China 
+  * 3402, Software Building, 800 Dongchuan Rd., Shanghai, China 
   * Zip/Postal Code: 200240 
   * Email: Dd_nirvana at sjtu dot edu dot cn
   * [Home page](http://dongd.info)
