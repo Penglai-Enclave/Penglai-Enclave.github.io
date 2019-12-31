@@ -12,6 +12,20 @@ categories: main
 
 ## Xu Lu (路旭)
 
+<img align="right" width="200" height="256" src="images/luxu.jpg"/>
+
+
+Xu Lu is a Master student in Shanghai Jiao Tong University. His research interests include operating systems, virtualization and HW/SW co-design. Currently, he is focusing on trust execution environment and RISC-V processor.
+
+- Master student
+- Institute of Parallel And Distributed Systems
+- School of Software
+- Shanghai Jiao Tong University
+- 3402, Software Building, 800 Dongchuan Rd., Shanghai, China
+- Zip/Postal Code: 200240
+- Email: LuXuKun at sjtu dot edu dot cn
+- [Home page](http://luxu.info/)
+
 
 ## Bicheng Yang (杨璧丞)
 
@@ -31,6 +45,18 @@ He has participated in several systems including cloud-computing, RISC-V TEE.
 
 
 ## Erhu Feng (冯二虎)
+
+<img align="right" width="200" height="256" src="images/fengerhu.jpg"/>
+
+
+Erhu Fengis a undergraduate student in Shanghai Jiao Tong University. His research interests include operating systems, virtualization and TEE. He has participated in several systems including cloud-computing, RISC-V TEE. 
+
+* Fourth-year undergraduate student
+* Institute of Parallel And Distributed Systems
+* School of Software ·- Shanghai Jiao Tong University
+* 3402, Software Building, 800 Dongchuan Rd., Shanghai, China
+* Zip/Postal Code: 200240
+* Email: fengerhu1 at sjtu dot edu dot cn
 
 
 
