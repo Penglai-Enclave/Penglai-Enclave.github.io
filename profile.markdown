@@ -36,7 +36,7 @@ He has participated in several systems including cloud-computing, RISC-V TEE.
 
 ## Dong Du (杜东) 
 
-<img align="right" width="200" height="256" src="images/dongd.jpeg"/>
+<img align="right" width="200" height="200" src="images/dongdu_random.jpg"/>
 
 
 Dong Du is a PhD student @ Shanghai Jiao Tong University. His research interests include operating systems, virtualization and HW/SW co-design. 
