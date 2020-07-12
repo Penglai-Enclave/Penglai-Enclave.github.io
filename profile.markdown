@@ -48,7 +48,6 @@ He has participated in several systems including cloud-computing, RISC-V TEE.
 
 <img align="right" width="200" height="256" src="images/fengerhu.jpg"/>
 
-
 Erhu Fengis a undergraduate student in Shanghai Jiao Tong University. His research interests include operating systems, virtualization and TEE. He has participated in several systems including cloud-computing, RISC-V TEE. 
 
 * Fourth-year undergraduate student
@@ -58,6 +57,20 @@ Erhu Fengis a undergraduate student in Shanghai Jiao Tong University. His resear
 * Zip/Postal Code: 200240
 * Email: fengerhu1 at sjtu dot edu dot cn
 
+## Jinyu Gu (古金宇)
+
+<img align="right" width="200" height="256" src="images/gujinyu.jpg"/>
+
+Jinyu Gu is a PhD student at Shanghai Jiao Tong University. 
+His research interests include TEE, operating systems and virtualization. 
+
+* Fourth-year Ph.D student
+* Institute of Parallel And Distributed Systems
+* School of Software, Shanghai Jiao Tong University
+* 3402, Software Building, 800 Dongchuan Rd., Shanghai, China
+* Zip/Postal Code: 200240
+* Email: gujinyu at sjtu dot edu dot cn
+* [Home page](https://ipads.se.sjtu.edu.cn/zh/pub/members/jinyu_gu/)
 
 
 ## Dong Du (杜东) 
