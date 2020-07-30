@@ -44,6 +44,23 @@ He has participated in several systems including cloud-computing, RISC-V TEE.
 * Email: Bichengyang at sjtu dot edu dot cn
 
 
+## Xueqiang Jiang (江学强)
+
+<img align="right" width="200" height="256" src="images/xueqiangjiang.jpg"/>
+
+Xueqiang Jiang is a master student of Shanghai Jiao Tong University.
+His research interests include operating systems, virtualization and trusted computing.
+Currently, he is focus on TEE anf RISC-V.
+
+* First-year master student
+* Institute of Parallel And Distributed Systems
+* School of Software
+* Shanghai Jiao Tong University
+* 3401, Software Building, 800 Dongchuan Rd., Shanghai, China
+* Zip/Postal Code: 200240
+* Email: jiangxq at sjtu dot edu dot cn
+
+
 ## Erhu Feng (冯二虎)
 
 <img align="right" width="200" height="256" src="images/fengerhu.jpg"/>
